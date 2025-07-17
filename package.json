@@ -1,0 +1,30 @@
+{
+  "name": "hope-for-life-ministry-website",
+  "version": "1.0.0",
+  "description": "Official website for Hope for Life Jesus Ministry International - A Bible college and ministry in Nairobi, Kenya",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "dev": "python3 -m http.server 3000",
+    "build": "echo 'Static website - no build required'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "ministry",
+    "bible-college",
+    "church",
+    "nairobi",
+    "kenya",
+    "theology",
+    "christian-education"
+  ],
+  "author": "Hope for Life Jesus Ministry International",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/hope-for-life-ministry.git"
+  },
+  "homepage": ".",
+  "devDependencies": {},
+  "dependencies": {}
+}
